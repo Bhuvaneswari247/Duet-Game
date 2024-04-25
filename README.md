@@ -1,3 +1,1 @@
 # Duet-Game
-
-Description:
